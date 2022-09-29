@@ -1,0 +1,6 @@
+type Entry @model @auth(rules: [{allow: owner}]) {
+  id: ID!
+  date: AWSDate
+  text: String
+}
+ 

@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gratitudejournal-staging-172816-authRole",
+      "UnauthRoleArn": "arn:aws:iam::067795008911:role/amplify-gratitudejournal-staging-172816-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::067795008911:role/amplify-gratitudejournal-staging-172816-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gratitudejournal-staging-172816-deployment",
+      "UnauthRoleName": "amplify-gratitudejournal-staging-172816-unauthRole",
+      "StackName": "amplify-gratitudejournal-staging-172816",
+      "StackId": "arn:aws:cloudformation:us-east-1:067795008911:stack/amplify-gratitudejournal-staging-172816/1ad78fb0-401c-11ed-b172-0aa2623b7b2f",
+      "AmplifyAppId": "d30jwjhy0i9u1e"
+    },
+    "categories": {
+      "auth": {
+        "gratitudejournal": {}
+      }
+    }
+  }
+}
